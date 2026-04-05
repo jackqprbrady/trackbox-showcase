@@ -16,13 +16,7 @@ The core idea: your music taste is part of your identity. TrackBox gives it some
 
 ---
 
-## Screenshots
-
-| Feed | Review |
-|------|--------|
-| ![Feed](https://trackbox-one.vercel.app/og-feed.png) | ![Review](https://trackbox-one.vercel.app/og-review.png) |
-
-> **[Try the live app](https://trackbox-one.vercel.app)** — it runs on web, iOS, and Android.
+**[Try the live app](https://trackbox-one.vercel.app)** — runs on web, iOS, and Android.
 
 ---
 
